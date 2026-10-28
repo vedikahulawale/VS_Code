@@ -1,0 +1,3 @@
+Python is useful
+Python is readable
+Data needs practice
