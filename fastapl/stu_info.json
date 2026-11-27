@@ -1,0 +1,57 @@
+{
+    "stu1": {
+        "student_id": 101,
+        "name": "Rahul Sharma",
+        "age": 21,
+        "gender": "Male",
+        "city": "Pune",
+        "course": "Data Science",
+        "marks": 85,
+        "email": "rahul@gmail.com",
+        "is_passed": true
+    },
+    "stu2": {
+        "student_id": 102,
+        "name": "Priya Patil",
+        "age": 22,
+        "gender": "Female",
+        "city": "Mumbai",
+        "course": "Python",
+        "marks": 92,
+        "email": "priya@gmail.com",
+        "is_passed": true
+    },
+    "stu3": {
+        "student_id": 103,
+        "name": "Amit Verma",
+        "age": 20,
+        "gender": "Male",
+        "city": "Nashik",
+        "course": "SQL",
+        "marks": 45,
+        "email": "amit@gmail.com",
+        "is_passed": false
+    },
+    "stu4": {
+        "student_id": 104,
+        "name": "Sneha Kulkarni",
+        "age": 23,
+        "gender": "Female",
+        "city": "Pune",
+        "course": "Machine Learning",
+        "marks": 78,
+        "email": "sneha@gmail.com",
+        "is_passed": true
+    },
+    "stu5": {
+        "student_id": 105,
+        "name": "Vikas More",
+        "age": 21,
+        "gender": "Male",
+        "city": "Kolhapur",
+        "course": "FastAPI",
+        "marks": 35,
+        "email": "vikas@gmail.com",
+        "is_passed": false
+    }
+}
